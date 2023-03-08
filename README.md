@@ -1,8 +1,12 @@
 ### Hi there 👋
-👩‍🔧 I'm Anita Wangui
+👩‍🔧 I'm Anita Wangui a front-end web developer
+
 🌱 I’m currently learning JavaScript and React
-👯 I’m looking to collaborate on web based projects
-⚡ Fun fact: I love board games. 9 times out of 10 I'll never decline to play a board game.
+
+👯 I’m looking to collaborate on interesting web based projects
+
+⚡ Fun fact: I love board games. 9 times out of 10 I'll never decline to play a board game. I am also a huge music fan!
+
 Get in touch with me😄: anitawangui22@gmail.com
 
 <!--
