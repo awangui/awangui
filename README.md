@@ -1,7 +1,7 @@
 ### Hi there 👋
 👩‍🔧 I'm Anita Wangui a front-end web developer and upcoming data analyst
 
-🌱 I’m currently learning Pandas and SQL
+🌱 I’m currently learning Pandas and React
 
 👯 I’m looking to collaborate on interesting web based projects or any data related projects
 
