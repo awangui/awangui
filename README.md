@@ -1,7 +1,7 @@
 ### Hi there 👋
 👩‍🔧 I'm Anita Wangui a front-end web developer
 
-🌱 I’m currently learning react.js
+🌱 I’m currently learning React.js
 
 👯 I’m looking to collaborate on interesting web related projects
 
