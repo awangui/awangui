@@ -1,9 +1,9 @@
 ### Hi there 👋
-👩‍🔧 I'm Anita Wangui an upcoming data scientist
+👩‍🔧 I'm Anita Wangui a front-end web developer
 
-🌱 I’m currently learning data analysis using python
+🌱 I’m currently learning react.js
 
-👯 I’m looking to collaborate on interesting data related projects
+👯 I’m looking to collaborate on interesting web related projects
 
 ⚡ Fun fact: I love board games. 9 times out of 10 I'll never decline to play a board game. I am also a huge music fan!
 
