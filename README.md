@@ -3,9 +3,9 @@
 
 🌱 I’m currently learning React.js
 
-👯 I’m looking to collaborate on interesting web related projects
+👯 I’m looking to collaborate on interesting web-related projects
 
-⚡ Fun fact: I love board games. 9 times out of 10 I'll never decline to play a board game. I am also a huge music fan!
+⚡ Fun fact: I am a huge music fan!
 
 Get in touch with me😄: anitawangui22@gmail.com
 
